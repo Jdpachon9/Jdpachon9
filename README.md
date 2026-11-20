@@ -1,16 +1,34 @@
-## Hi there 👋
+# Juan David Pachón Moya
 
-<!--
-**Jdpachon9/Jdpachon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager · Producto digital, datos y procesos** · Colombia
 
-Here are some ideas to get you started:
+Ingeniero industrial con línea de profundización en economía y especialización en curso en Analítica de Datos. Llevé al mercado dos productos digitales propios y he rediseñado procesos en pymes. Trabajo donde se cruzan el producto, el proceso y el dato: entiendo la operación, encuentro la restricción real, mido el riesgo frente al beneficio y sostengo la decisión con evidencia, incluso cuando la conclusión es no seguir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Proyectos
+
+| Proyecto | De qué se trata | Herramientas |
+|---|---|---|
+| [De PriceX a Tecompro.co](https://github.com/Jdpachon9/pricex-tecompro) | Dos emprendimientos: un comparador de precios que frené tras un análisis de riesgo y una plataforma de pagos digitales para micronegocios. [Ver el caso con video](https://jdpachon9.github.io/pricex-tecompro/) | Análisis de viabilidad · WordPress · ePayco |
+| [Bodega de datos del transporte de carga](https://github.com/Jdpachon9/bodega-datos-transporte) | Cinco fuentes públicas del transporte de carga integradas en un modelo dimensional de casi 13 millones de registros | Python · SQL (PostgreSQL) · Power Query · Excel |
+<!-- Copia esta fila para cada proyecto nuevo y quita la marca de comentario:
+| [Nombre del proyecto](https://github.com/Jdpachon9/nombre-del-repositorio) | Qué problema resuelve, en una línea | Herramientas |
 -->
+
+## Experiencia en breve
+
+- **Cofundador y responsable de producto de Tecompro.co (2019–2024)** y cofundador de PriceX (2018–2019).
+- **Consultoría de procesos en pymes.** Llevé a digital el control de producción de una empresa de confección y multipliqué por cuatro la capacidad de la estación crítica de un fabricante de campanas extractoras, sin invertir en equipos.
+- **Superintendencia de Industria y Comercio (2023).** Ingeniero de la Red Nacional de Protección al Consumidor: verificación de cumplimiento en campo y campañas sobre metrología legal y reglamentos técnicos en más de 120 establecimientos.
+
+## Formación
+
+- Ingeniería Industrial, con línea de profundización en Economía · Universidad Sergio Arboleda
+- Especialización en Analítica de Datos · CUN (en curso)
+- Certificado Profesional en Product Management · Universidad de Maryland (en curso)
+- Certificado Profesional en Ciberseguridad · Google
+
+**Herramientas:** SQL · PostgreSQL · Python (pandas) · Power BI · Excel avanzado (Power Query)
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/juan-david-pachon-moya-00554417b/)
