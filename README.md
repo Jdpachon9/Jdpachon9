@@ -8,7 +8,7 @@ Ingeniero industrial con línea de profundización en economía y especializaci�
 
 | Proyecto | De qué se trata | Herramientas |
 |---|---|---|
-| [Centro de control de quejas con IA](https://github.com/Jdpachon9/centro-control-quejas-ia) | Un agente de IA clasifica las quejas de un banco ficticio y reglas fijas deciden plazo, ruta y área. Clasificó bien 297 de 300, no dejó pasar ningún dato personal al modelo y resistió 20 de 20 ataques | API de Gemini · Python (pandas) · Google Colab |
+| [Centro de control de quejas con IA](https://github.com/Jdpachon9/centro-control-quejas-ia) | Un agente de IA clasifica las quejas de un banco ficticio y reglas fijas deciden plazo, ruta y área. Clasificó bien 297 de 300, no dejó pasar ningún dato personal al modelo y resistió 20 de 20 ataques | API de Gemini · Python (pandas) · Google Colab · Power BI |
 | [De PriceX a Tecompro.co](https://github.com/Jdpachon9/pricex-tecompro) | Dos emprendimientos: un comparador de precios que frené tras un análisis de riesgo y una plataforma de pagos digitales para micronegocios. [Ver el caso con video](https://jdpachon9.github.io/pricex-tecompro/) | Análisis de viabilidad · WordPress · ePayco |
 | [Bodega de datos del transporte de carga](https://github.com/Jdpachon9/bodega-datos-transporte) | Cinco fuentes públicas del transporte de carga integradas en un modelo dimensional de casi 13 millones de registros | Python · SQL (PostgreSQL) · Power Query · Excel |
 
